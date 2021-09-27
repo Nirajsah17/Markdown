@@ -60,14 +60,4 @@ GitLab is **a management platform for Git repositories** that provides integrate
 ## JIRA 
   
 Jira Software is part of a family of products designed to help teams of all types manage work. Originally, Jira was designed as a bug and issue tracker. But today, Jira has evolved into a powerful **work management tool** for all kinds of use cases, from requirements and test case management to agile software development.
-
-
-
-
-
-
-
-
-
-
-
+ 
