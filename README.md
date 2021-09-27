@@ -1,6 +1,6 @@
 ﻿# Tools 
-
-Tools that helps us to do our task simple and easier and reduce the time .
+![TOOls](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c926d776970b-800wi)<br>
+Tools that helps us to do our task simple and easier without any intteruption.
 
 # Linux  as tools
 Linux is opensource **UNIX** based operating system , and widely used in the industry .
